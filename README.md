@@ -36,15 +36,12 @@ $ npm install redux-csrf --save
 ## Usage
 
 ```js
-import {
-  default as reducer,
-  actions,
-} from 'redux-csrf';
+import { default as reducer, actions } from 'redux-csrf';
 
-# Server side with csurf middleware
+// Server side with csurf middleware
 store.dispatch(actions.setCsrfToken(req.csrfToken()));
 
-# Reducer
+// Reducer
 combineReducers({
   ...otherReducers
   _csrf: reducer,
