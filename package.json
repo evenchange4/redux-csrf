@@ -1,6 +1,6 @@
 {
   "name": "redux-csrf",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Keep your csrf token inside your Redux store.",
   "author": "Michael Hsu",
   "license": "MIT",
