@@ -57,6 +57,7 @@ Set CSRF token to redux store.
 ## Test
 
 ```
+$ npm run lint
 $ npm run test:watch
 ```
 

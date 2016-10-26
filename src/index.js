@@ -9,7 +9,7 @@ export const SET_CSRFTOKEN = '@@redux-csrf/setCsrfToken';
 // 2. Actions Creators
 // ------------------------------------
 export const actions = {
-  setCsrfToken: (csrfToken) => ({
+  setCsrfToken: csrfToken => ({
     type: SET_CSRFTOKEN,
     payload: csrfToken,
   }),
