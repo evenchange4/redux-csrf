@@ -1,6 +1,5 @@
 import test from 'ava';
-import {
-  default as reducer,
+import reducer, {
   actions as csrfActions,
   SET_CSRFTOKEN,
 } from '../src/index';
