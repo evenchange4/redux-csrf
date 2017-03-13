@@ -26,6 +26,7 @@
 [devDependency]: https://david-dm.org/evenchange4/redux-csrf#info=devDependencies
 [peerDependency-badge]: https://david-dm.org/evenchange4/redux-csrf/peer-status.svg?style=flat-square
 [peerDependency]: https://david-dm.org/evenchange4/redux-csrf#info=peerDependencies
+[![Greenkeeper badge](https://badges.greenkeeper.io/evenchange4/redux-csrf.svg)](https://greenkeeper.io/)
 
 ## Installation
 
