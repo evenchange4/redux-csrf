@@ -1,7 +1,5 @@
 # redux-csrf
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/evenchange4/redux-csrf.svg)](https://greenkeeper.io/)
-
 > Keep your csrf token inside your Redux store.
 
 [![Travis][build-badge]][build] [![Codecov Status][codecov-badge]][codecov] [![npm package][npm-badge]][npm] [![npm downloads][npm-downloads]][npm] [![license][license-badge]][license]
@@ -28,6 +26,7 @@
 [devDependency]: https://david-dm.org/evenchange4/redux-csrf#info=devDependencies
 [peerDependency-badge]: https://david-dm.org/evenchange4/redux-csrf/peer-status.svg?style=flat-square
 [peerDependency]: https://david-dm.org/evenchange4/redux-csrf#info=peerDependencies
+[![Greenkeeper badge](https://badges.greenkeeper.io/evenchange4/redux-csrf.svg)](https://greenkeeper.io/)
 
 ## Installation
 
